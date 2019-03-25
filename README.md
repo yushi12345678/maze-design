@@ -17,6 +17,10 @@ maze-design 走迷宫游戏
 (6)利用栈实现迷宫的功能；
 4.效果图
 --------
-<image src="Iamges/图片1.png" style="width;32%;height:40rpx;"
+![Homepage](Iamges/图片1.png)
+![Homepage](Iamges/图片2.png)
+![Homepage](Iamges/图片3.png)
+![Homepage](Iamges/图片4.png)
+![Homepage](Iamges/图片5.png)
 
 
