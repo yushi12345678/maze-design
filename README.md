@@ -26,6 +26,7 @@ maze-design 走迷宫游戏
 
 4.效果图
 --------
+<img src="Iamges/图片1.png" width="300">
 ![Homepage](Iamges/图片1.png)
 ![Homepage](Iamges/图片5.png)
 ![Homepage](Iamges/图片2.png)
