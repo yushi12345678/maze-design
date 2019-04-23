@@ -26,9 +26,11 @@ maze-design 走迷宫游戏
 
 4.效果图
 --------
-<figure class="third">
-  <img src="Iamges/图片1.png" width="300" /><img src="Iamges/图片5.png" width="300" /><img src="Iamges/图片2.png" width="300"  />
-</figure>
+<div style="width:100%;height:400;">
+  <img src="Iamges/图片1.png" style="width:300;float:left;" />
+  <img src="Iamges/图片5.png" style="width:300;float:left;" />
+  <img src="Iamges/图片2.png" style="width:300;float:left;" />
+</div>
 ![Homepage](Iamges/图片1.png)
 ![Homepage](Iamges/图片5.png)
 ![Homepage](Iamges/图片2.png)
